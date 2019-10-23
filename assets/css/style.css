@@ -16,7 +16,7 @@ header {
 
 }
 
-/* clearfix to sort out the nav bar getting mess up*/
+
 header::after {
     content: '';
     display: table;
@@ -28,7 +28,7 @@ header::after {
     margin: 0 auto;
 }
 
-.brand {
+.Name {
     background: #4aaaa5;
     color: #ffffff;
     padding: 20px;  
@@ -215,9 +215,10 @@ footer {
     width: 960px;
     height: fit-content;
     padding: 20px;}
+   
     .column {
         float: center;
-        width: 50%;
+        width: 33.33%;
         padding: 5px;
     
     }
