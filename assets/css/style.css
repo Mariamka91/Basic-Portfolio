@@ -209,7 +209,7 @@ footer {
 .container-portfolio {
     clear: both;
     overflow: auto;
-    margin: 0 auto;
+    margin: auto;
     background:#ffffff;
     color: #777777;
     width: 960px;
